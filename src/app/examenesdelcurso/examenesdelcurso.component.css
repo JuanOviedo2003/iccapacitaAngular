@@ -1,0 +1,14 @@
+.contenedor_examencurso{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 400px;
+    height: 50vh;
+    background-color:rgb(58, 102, 87);
+    padding: 2rem;
+    margin: 0.5rem;
+}
+.contenedor_examencurso > div{
+    background-color: beige;
+    padding: 20px;
+}

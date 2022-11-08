@@ -1,0 +1,13 @@
+form{
+    background-color: rgb(166, 166, 166);
+    padding: 20px;
+    border-radius: 4px;
+}
+.link{
+    text-decoration: none;
+    color: #ffff;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,24 @@
+.contenedorcursomatriculados{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.cursomatriculado{
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background-color: azure;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+h1{
+    font-weight: 2em;
+    display: flex;
+    justify-content: center;
+}
+p{
+    margin: 0;
+}
+
